@@ -48,7 +48,8 @@ header{
         list-style: none;
         margin-top: 20px;
         margin-bottom: 20px;
-        margin-right: 7px;
+        margin-right: 10px;
+        margin-left: 10px;
     }
 
     nav ul li a{
@@ -300,9 +301,3 @@ header{
         margin-left: 90px;
         margin-bottom: 20px;
     }
-
-
-
-
-
-
